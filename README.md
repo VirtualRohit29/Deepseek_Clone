@@ -2,7 +2,7 @@
 
 **“DeepSeek Clone – A full-stack AI chat application with real-time GPT-powered assistant and prompt tracking.”**
 
-[![Deepseek Clone Interface](your-image-link-here.png)](your-image-link-here.png)
+[![Deepseek Clone Interface](Screenshot.png)](Screenshot.png)
 *A glimpse of the Deepseek Clone chat interface.*
 
 Replace `your-image-link-here.png` with the actual path or URL to the image file you want to display in your README. For the image to be visible on GitHub, you should typically place the image file (e.g., `screenshot.png`) in the root of your repository or in a dedicated `assets` folder and then link to it accordingly (e.g., `assets/screenshot.png`).
